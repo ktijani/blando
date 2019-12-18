@@ -19,5 +19,4 @@ if (empty($numberPrefixes)) {
 		    $gen = ''.$numberPrefixes.''.$num.'<br>';
 		$array = str_repeat($gen, $numberqu);
 		echo $array;
-}
 ?>
